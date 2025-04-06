@@ -1,0 +1,8 @@
+Improvements:
+
+- check the insert products form (specialy the images) we need to add + (add more img if you want)
+- check (consult prof) if we need to set product_details on separate file or we can set it inside get_products func(common func)
+- check bootstrap to enhance the styling
+- database attribuites, relations and entitie.
+- product_details page does not work without a product_id inside the url
+- Add bootstrap spinners(loading) and handle the products visualization using bootstrap pagination
